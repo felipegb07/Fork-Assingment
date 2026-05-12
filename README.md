@@ -1,4 +1,4 @@
-## Descripción del proyecto
+# Descripción del proyecto
 
 Este proyecto fue desarrollado para la materia de Sistemas Operativos de la Pontificia Universidad Javeriana con el objetivo de implementar conceptos fundamentales relacionados con:
 
