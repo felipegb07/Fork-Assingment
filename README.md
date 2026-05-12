@@ -72,3 +72,9 @@ El sistema:
     ├── archivo01.txt
     ├── taller_procesos02.c
     └── taller_procesos.c
+
+```
+---
+## Aclaraciones finales
+
+Al momento de hacer la implementación de las pipes, se tienen dos archivos .c, en los cuales hay una diferenia importante que radica principalmente en que taller_procesos.c hace la ejecución de las pipes sin estructuras, de tal manera que cuando se hace la lectura de los datos por la (`pipe()`), tendremos que estos se mandan en desorden, sin embargo luego en el taller_procesos02.c se hace la implementación de las mimas y los resultados se muestran en orden.
