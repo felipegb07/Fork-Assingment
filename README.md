@@ -12,7 +12,7 @@ El programa recibe dos archivos de texto con números enteros, crea múltiples p
 
 ---
 
-# Integrantes
+## Integrantes
 
 - Juan Felipe González Barón
 - María Alejandra Rodríguez Betancourt
@@ -20,19 +20,19 @@ El programa recibe dos archivos de texto con números enteros, crea múltiples p
 
 ---
 
-# Institución
+## Institución
 
 Pontificia Universidad Javeriana
 
 ---
 
-# Materia
+## Materia
 
 Sistemas Operativos
 
 ---
 
-# Objetivo principal
+## Objetivo principal
 
 Implementar un sistema de procesamiento concurrente utilizando procesos y comunicación entre procesos en C.
 
@@ -50,7 +50,7 @@ El sistema:
 
 ---
 
-# Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Lenguaje C
 - GCC
@@ -61,7 +61,7 @@ El sistema:
 
 ---
 
-# Estructura del proyecto
+## Estructura del proyecto
 
 ```txt
 .
